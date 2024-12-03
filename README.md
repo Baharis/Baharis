@@ -1,4 +1,11 @@
 ## Hi there 👋
+I made this profile repository because I'm a nerd and I wanted to see some cool statistics about myself. Woohoo!
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Baharis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Baharis/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Baharis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Baharis/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baharis&layout=compact)
+
 
 <!--
 **Baharis/Baharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
